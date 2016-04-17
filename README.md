@@ -5,7 +5,7 @@ A [slackbot](https://github.com/lins05/slackbot) plugin that queries the JIRA AP
 ## Installation
 
 1. Setup [slackbot](https://github.com/lins05/slackbot)
-2. `pip install slackbotjira` (coming soon)
+2. `pip install slackbotjira`
 3. In slackbot_settings.py:
   * Add 'slackbotjira' to PLUGINS list
   * `import os` to use environment variables for JIRA user/pass
