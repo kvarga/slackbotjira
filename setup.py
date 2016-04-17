@@ -9,7 +9,7 @@ install_reqs = parse_requirements('requirements.txt', session=False)
 reqs = [str(ir.req) for ir in install_reqs]
 
 setup(name='slackbotjira',
-      version='0.1',
+      version='0.2',
       description='Slackbot JIRA Plugin',
       url='tbd',
       author='Kyle Varga',
