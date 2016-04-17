@@ -2,6 +2,10 @@
 
 A [slackbot](https://github.com/lins05/slackbot) plugin that queries the JIRA API for information about a ticket when mentioned in a channel.
 
+## Screenshot
+
+![Screenshot](https://i.imgur.com/IxqWuFv.png)
+
 ## Installation
 
 1. Setup [slackbot](https://github.com/lins05/slackbot)
